@@ -1,0 +1,6 @@
+# Ignore numpy archive and custom binary data files
+*.npz
+*.npg
+
+# Ignore logs
+*.log
