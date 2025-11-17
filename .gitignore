@@ -1,6 +1,6 @@
 # Ignore numpy archive and custom binary data files
 *.npz
-*.npg
+*.png
 
 # Ignore logs
 *.log
@@ -11,3 +11,8 @@
 *.sh
 # Ignore saved model files
 *.pth
+# Ignore cache files
+__pycache__/
+*.pyc
+# Ignore model prediction outputs
+prediction_plots/
