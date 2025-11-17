@@ -4,3 +4,10 @@
 
 # Ignore logs
 *.log
+# Ignore temporary files
+*.tmp
+*.temp
+# Ignore .sh files
+*.sh
+# Ignore saved model files
+*.pth
